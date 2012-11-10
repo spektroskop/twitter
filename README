@@ -4,4 +4,4 @@ api keys -> tw.config
 gem install eventmachine paint yajl-ruby simple_oauth http_parser.rb
 ruby tw.rb
 
-commands: user, track <keyword>, exit
+commands: user, track <keywords>, exit
